@@ -1,0 +1,515 @@
+{
+  "initial_rows": 1489,
+  "dropped_rows": 127,
+  "final_rows": 1362,
+  "issues": [
+    {
+      "ID": 20,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 21,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 34,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 156,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 176,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 180,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 293,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 294,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 424,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 468,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 475,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 483,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 494,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 495,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 602,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 622,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 641,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 701,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 712,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 746,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 797,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 829,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 844,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 882,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 894,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 1016,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 1027,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 1050,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 1158,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 1210,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 1254,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 1300,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 1304,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 1306,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 1314,
+      "Issues": "AI Prompt Leakage (instruction words)"
+    },
+    {
+      "ID": 2989,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 3003,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 3036,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 3065,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5383,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5403,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5449,
+      "Issues": "Strong English leakage, AI Prompt Leakage (instruction words)"
+    },
+    {
+      "ID": 5516,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5520,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5549,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5560,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5603,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5628,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5637,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5643,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5672,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5740,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5785,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5809,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5831,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5858,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5861,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 5886,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 6027,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 6059,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 6063,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 6160,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 6275,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 6326,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 6400,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 6457,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 6608,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 6739,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 6769,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 6782,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7019,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7150,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7158,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7181,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7188,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7221,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7255,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7281,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7283,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7368,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7677,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7696,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7720,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7937,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 7964,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8069,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8192,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8232,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8476,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8505,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8512,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8554,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8587,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8629,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8650,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8652,
+      "Issues": "AI Prompt Leakage (instruction words)"
+    },
+    {
+      "ID": 8661,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8703,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8835,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8875,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8919,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8959,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8985,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 8993,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9023,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9061,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9097,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9125,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9136,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9180,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9197,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9206,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9271,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9359,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9367,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9577,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9579,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9595,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9598,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9664,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9678,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9721,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9848,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9941,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9970,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9972,
+      "Issues": "Strong English leakage"
+    },
+    {
+      "ID": 9993,
+      "Issues": "Strong English leakage"
+    }
+  ]
+}
