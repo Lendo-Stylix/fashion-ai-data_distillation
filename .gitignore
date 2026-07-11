@@ -1,7 +1,4 @@
-.env
-__pycache__/
-*.pyc
-*.log
-data/processed/
-data/final/
-data/raw/*.csv
+```
+# Data files that might be generated
+data/reasoning_generation/*.txt
+```
