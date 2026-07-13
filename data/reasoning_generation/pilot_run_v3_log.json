@@ -1,0 +1,257 @@
+[
+  {
+    "id": 398,
+    "tags": "Kiến thức cơ bản, Phong cách",
+    "question": "Tôi muốn tay áo blazer để lộ một chút cổ tay áo sơ mi nhưng không quá nhiều. Có quy tắc nào cho lượng lộ ra hoàn hảo đó không?",
+    "a_dataset": "Theo truyền thống, khoảng nửa inch (1 đến 1,5 cm) cổ tay áo sơ mi lộ ra khỏi ống tay áo blazer. Khoảng lộ nhỏ nhưng có chủ đích này truyền tải vẻ ngoài chỉn chu. Chỉnh độ dài tay áo để nó nằm ngay xương cổ tay, sau đó đảm bảo cổ tay áo sơ mi kết thúc bên dưới nó để lộ ra vừa phải. Tỷ lệ này đảm bảo blazer trông không quá ngắn, trong khi chi tiết cổ tay áo tinh tế làm nổi bật cổ tay một cách thanh lịch—đặc biệt nếu bạn đeo đồng hồ. Luôn mặc thử cả hai món đồ cùng nhau để đảm bảo chúng hài hòa. Với những số đo này, bạn sẽ có được vóc dáng sắc sảo, vượt thời gian mà không phải loay hoay với tay áo suốt cả ngày.",
+    "api_key_used": "Key_1",
+    "a_cloud": "**Quy tắc vàng:** Tay áo blazer nên ngắn hơn tay áo sơ mi từ **1,5 – 2,5 cm** (khoảng 0,5 – 1 inch).\n\n**Lưu ý chuyên gia:**\n- Mức lộ lý tưởng là **1,5 – 2 cm** để vừa khoe được cổ tay sơ mi (hoặc khuy măng sét), vừa giữ tỷ lệ thanh lịch.\n- Khi đứng thẳng, tay buông自然, đường giao giữa hai ống tay tạo khoảng hở vừa phải, không quá hẹp cũng không lộ quá nửa bắp tay.",
+    "usage_step1": {
+      "prompt_tokens": 97,
+      "completion_tokens": 510,
+      "total_tokens": 607,
+      "cost": 0,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0,
+        "upstream_inference_prompt_cost": 0,
+        "upstream_inference_completions_cost": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 349,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "verdict": {
+      "category": "DATASET_SUPERIOR",
+      "fact_check_notes": "A_Dataset đưa quy tắc chuẩn: lộ ~1-1.5cm cổ tay sơ mi, tay áo blazer chạm xương cổ tay, văn phong rõ ràng chuyên nghiệp. A_Cloud nêu khoảng 1.5-2.5cm tạm ổn nhưng thêm chi tiết sai lệch 'không lộ quá nửa bắp tay' (thực tế chỉ lộ cổ tay) và dùng từ tiếng Trung '自然', gây nhiễu, kém chính xác hơn.",
+      "_usage": {
+        "prompt_tokens": 812,
+        "completion_tokens": 1222,
+        "total_tokens": 2034,
+        "cost": 0,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0,
+          "upstream_inference_prompt_cost": 0,
+          "upstream_inference_completions_cost": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 1069,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    "a_final_source": "A_Dataset",
+    "a_final": "Theo truyền thống, khoảng nửa inch (1 đến 1,5 cm) cổ tay áo sơ mi lộ ra khỏi ống tay áo blazer. Khoảng lộ nhỏ nhưng có chủ đích này truyền tải vẻ ngoài chỉn chu. Chỉnh độ dài tay áo để nó nằm ngay xương cổ tay, sau đó đảm bảo cổ tay áo sơ mi kết thúc bên dưới nó để lộ ra vừa phải. Tỷ lệ này đảm bảo blazer trông không quá ngắn, trong khi chi tiết cổ tay áo tinh tế làm nổi bật cổ tay một cách thanh lịch—đặc biệt nếu bạn đeo đồng hồ. Luôn mặc thử cả hai món đồ cùng nhau để đảm bảo chúng hài hòa. Với những số đo này, bạn sẽ có được vóc dáng sắc sảo, vượt thời gian mà không phải loay hoay với tay áo suốt cả ngày.",
+    "thinking_reverse": "Đầu tiên, khi tiếp nhận thắc mắc từ khách hàng, tôi hiểu rằng họ đang tìm kiếm một nguyên tắc phối đồ giữa blazer và sơ mi sao cho phần cổ tay áo sơ mi lộ ra với lượng vừa đủ, tạo cảm giác chủ ý chứ không phải lộ liễu. Mong muốn này phản ánh sự quan tâm đến tỷ lệ tinh tế trong ăn mặc nhưng thiếu tham chiếu cụ thể về con số.\n\nTiếp theo, tôi xác định vấn đề cốt lõi nằm ở việc thiết lập sự cân đối độ dài hai lớp tay áo. Nếu khoảng hở quá lớn sẽ làm áo khoác trông như bị chật hoặc ngắn sai kỹ thuật, còn quá nhỏ thì mất đi hiệu ứng lớp lang và điểm nhấn cho phụ kiện. Do đó, cần một mốc đo lường chuẩn mực dựa trên giải phẫu cổ tay để cả hai món đều đúng form và hỗ trợ nhau.\n\nTừ đây, tôi xây dựng giải pháp dựa trên kinh nghiệm may đo kinh điển: dùng xương cổ tay làm điểm dừng cho ống tay blazer, rồi cho phép sơ mi nhô thêm một đoạn nhỏ tương đương nửa inch. Tôi cũng cân nhắc công năng thực tế là khoảng cách này giúp phô diễn đồng hồ và giữ nét lịch lãm vượt thời gian. Cuối cùng, tôi nhấn mạnh việc thử cả bộ trực tiếp vì tỷ lệ chuẩn vẫn cần kiểm chứng trên dáng người thật. Luồng suy nghĩ đó dẫn đến lời khuyên gọn gàng, truyền tải được sự chỉn chu mà khách cần.",
+    "usage_step3": {
+      "prompt_tokens": 565,
+      "completion_tokens": 3109,
+      "total_tokens": 3674,
+      "cost": 0,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 384,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0,
+        "upstream_inference_prompt_cost": 0,
+        "upstream_inference_completions_cost": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 2684,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "final_response": "<think>\nĐầu tiên, khi tiếp nhận thắc mắc từ khách hàng, tôi hiểu rằng họ đang tìm kiếm một nguyên tắc phối đồ giữa blazer và sơ mi sao cho phần cổ tay áo sơ mi lộ ra với lượng vừa đủ, tạo cảm giác chủ ý chứ không phải lộ liễu. Mong muốn này phản ánh sự quan tâm đến tỷ lệ tinh tế trong ăn mặc nhưng thiếu tham chiếu cụ thể về con số.\n\nTiếp theo, tôi xác định vấn đề cốt lõi nằm ở việc thiết lập sự cân đối độ dài hai lớp tay áo. Nếu khoảng hở quá lớn sẽ làm áo khoác trông như bị chật hoặc ngắn sai kỹ thuật, còn quá nhỏ thì mất đi hiệu ứng lớp lang và điểm nhấn cho phụ kiện. Do đó, cần một mốc đo lường chuẩn mực dựa trên giải phẫu cổ tay để cả hai món đều đúng form và hỗ trợ nhau.\n\nTừ đây, tôi xây dựng giải pháp dựa trên kinh nghiệm may đo kinh điển: dùng xương cổ tay làm điểm dừng cho ống tay blazer, rồi cho phép sơ mi nhô thêm một đoạn nhỏ tương đương nửa inch. Tôi cũng cân nhắc công năng thực tế là khoảng cách này giúp phô diễn đồng hồ và giữ nét lịch lãm vượt thời gian. Cuối cùng, tôi nhấn mạnh việc thử cả bộ trực tiếp vì tỷ lệ chuẩn vẫn cần kiểm chứng trên dáng người thật. Luồng suy nghĩ đó dẫn đến lời khuyên gọn gàng, truyền tải được sự chỉn chu mà khách cần.\n</think>\nTheo truyền thống, khoảng nửa inch (1 đến 1,5 cm) cổ tay áo sơ mi lộ ra khỏi ống tay áo blazer. Khoảng lộ nhỏ nhưng có chủ đích này truyền tải vẻ ngoài chỉn chu. Chỉnh độ dài tay áo để nó nằm ngay xương cổ tay, sau đó đảm bảo cổ tay áo sơ mi kết thúc bên dưới nó để lộ ra vừa phải. Tỷ lệ này đảm bảo blazer trông không quá ngắn, trong khi chi tiết cổ tay áo tinh tế làm nổi bật cổ tay một cách thanh lịch—đặc biệt nếu bạn đeo đồng hồ. Luôn mặc thử cả hai món đồ cùng nhau để đảm bảo chúng hài hòa. Với những số đo này, bạn sẽ có được vóc dáng sắc sảo, vượt thời gian mà không phải loay hoay với tay áo suốt cả ngày."
+  },
+  {
+    "id": 8334,
+    "tags": "Dáng người, Phong cách",
+    "question": "Tôi muốn có những kiểu dáng rõ ràng, chỉn chu nhưng lại thích mặc đồ trung tính giới tính. Làm sao để đạt được điều đó?",
+    "a_dataset": "Hãy tìm những món trang phục có thiết kế tinh tế – quần ống thẳng, blazer một khuy – với dáng hơi hộp để tránh phong cách may theo giới tính rõ rệt. Những tông màu trung tính (xám tro, đen, be) giúp phối đồ dễ dàng. Nhấn mạnh vào các chi tiết tinh tế như cổ áo sắc nét hoặc nếp gấp tối giản để tạo sự sang trọng. Cân nhắc chọn cỡ lớn hơn một size hoặc điều chỉnh ở những điểm then chốt (như chiều dài tay) để đạt được độ vừa vặn thoải mái nhưng vẫn giữ được dáng đứng. Cách tiếp cận này kết hợp vẻ ngoài chỉn chu với tính linh hoạt trung tính.",
+    "api_key_used": "Key_2",
+    "a_cloud": "Để kết hợp sự chỉn chu, kiểu dáng rõ ràng với phong cách trung tính, bạn hãy áp dụng 3 nguyên tắc sau:\n\n1. **Chọn cấu trúc cắt may sắc sảo:** Ưu tiên các items có form suông, oversized vừa phải hoặc form fitted chuẩn (như blazer, vest, quần âu ống đứng) để tạo silhouette rành mạch, không lùng bùng.\n2. **Chất liệu giữ form:** Dùng linen, cotton khổ dày, denim hoặc dạ để trang phục có độ cứng, tránh chất liệu quá mềm rủ làm mất nét chỉn chu.\n3. **Tông màu trung tính:** Sử dụng palette Đen - Trắng - Be - Xám - Navy giúp tổng thể tối giản, thanh lịch và phi giới tính.\n\n*Gợi ý set đồ:* Sơ mi trắng + Quần âu ống suông + Giày Loafers/ Bốt cổ thấp.",
+    "usage_step1": {
+      "prompt_tokens": 94,
+      "completion_tokens": 844,
+      "total_tokens": 938,
+      "cost": 0,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0,
+        "upstream_inference_prompt_cost": 0,
+        "upstream_inference_completions_cost": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 598,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "verdict": {
+      "category": "CLOUD_SUPERIOR",
+      "fact_check_notes": "Cả hai đều đúng về kiến thức thời trang trung tính (form boxy/ống thẳng, tông màu trung tính), không bị ảo giác. A_Cloud vượt trội hơn nhờ cấu trúc trình bày rõ ràng, bổ sung kiến thức thực tế về chất liệu giữ form (linen, denim, dạ) và đưa ra gợi ý set đồ cụ thể giúp người dùng dễ áp dụng. A_Dataset viết dạng văn xuôi, thiếu ví dụ thực tiễn dù có đề cập tốt về kỹ thuật chỉnh size.",
+      "_usage": {
+        "prompt_tokens": 851,
+        "completion_tokens": 2173,
+        "total_tokens": 3024,
+        "cost": 0,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0,
+          "upstream_inference_prompt_cost": 0,
+          "upstream_inference_completions_cost": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 2009,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    "a_final_source": "A_Cloud",
+    "a_final": "Để kết hợp sự chỉn chu, kiểu dáng rõ ràng với phong cách trung tính, bạn hãy áp dụng 3 nguyên tắc sau:\n\n1. **Chọn cấu trúc cắt may sắc sảo:** Ưu tiên các items có form suông, oversized vừa phải hoặc form fitted chuẩn (như blazer, vest, quần âu ống đứng) để tạo silhouette rành mạch, không lùng bùng.\n2. **Chất liệu giữ form:** Dùng linen, cotton khổ dày, denim hoặc dạ để trang phục có độ cứng, tránh chất liệu quá mềm rủ làm mất nét chỉn chu.\n3. **Tông màu trung tính:** Sử dụng palette Đen - Trắng - Be - Xám - Navy giúp tổng thể tối giản, thanh lịch và phi giới tính.\n\n*Gợi ý set đồ:* Sơ mi trắng + Quần âu ống suông + Giày Loafers/ Bốt cổ thấp.",
+    "thinking_reverse": "Đầu tiên, tôi tiếp nhận mong muốn của khách là muốn hình ảnh chỉn chu, đường nét rõ ràng nhưng vẫn giữ được tính phi giới tính. Đây là hai yếu tố tưởng chừng mâu thuẫn: đồ unisex thường hay bị hiểu là rộng thùng thình, trong khi sự chỉn chu đòi hỏi sự gọn gàng, xác định.\n\nTôi xác định vấn đề cốt lõi nằm ở chỗ làm sao để trang phục trung tính không bị nhạt nhòa hay luộm thuộm, mà vẫn giữ được cấu trúc rành mạch. Khách không muốn đồ nữ tính cầu kỳ, cũng không muốn đồ nam quá nghiêm ngặt, nên cần điểm cân bằng ở form dáng và chất liệu.\n\nTừ đó, tôi hướng giải pháp theo ba trụ cột. Một là về cắt may: phải chọn những mẫu có biên giới rõ, như suông vừa hoặc ôm chuẩn để body không bị tan trong vải. Hai là chất liệu: cần độ cứng nhất định để giữ dáng áo quần, tránh loại vải mỏng rủ làm hỏng vẻ nghiêm túc. Ba là màu sắc: dùng gam trầm tối giản vừa trung tính vừa sang. Cuối cùng, tôi ghép các tiêu chí này thành một bộ đồ cụ thể dễ hình dung, đảm bảo khách áp dụng được ngay mà vẫn đúng chất mình mong muốn.",
+    "usage_step3": {
+      "prompt_tokens": 564,
+      "completion_tokens": 363,
+      "total_tokens": 927,
+      "cost": 0,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0,
+        "upstream_inference_prompt_cost": 0,
+        "upstream_inference_completions_cost": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "final_response": "<think>\nĐầu tiên, tôi tiếp nhận mong muốn của khách là muốn hình ảnh chỉn chu, đường nét rõ ràng nhưng vẫn giữ được tính phi giới tính. Đây là hai yếu tố tưởng chừng mâu thuẫn: đồ unisex thường hay bị hiểu là rộng thùng thình, trong khi sự chỉn chu đòi hỏi sự gọn gàng, xác định.\n\nTôi xác định vấn đề cốt lõi nằm ở chỗ làm sao để trang phục trung tính không bị nhạt nhòa hay luộm thuộm, mà vẫn giữ được cấu trúc rành mạch. Khách không muốn đồ nữ tính cầu kỳ, cũng không muốn đồ nam quá nghiêm ngặt, nên cần điểm cân bằng ở form dáng và chất liệu.\n\nTừ đó, tôi hướng giải pháp theo ba trụ cột. Một là về cắt may: phải chọn những mẫu có biên giới rõ, như suông vừa hoặc ôm chuẩn để body không bị tan trong vải. Hai là chất liệu: cần độ cứng nhất định để giữ dáng áo quần, tránh loại vải mỏng rủ làm hỏng vẻ nghiêm túc. Ba là màu sắc: dùng gam trầm tối giản vừa trung tính vừa sang. Cuối cùng, tôi ghép các tiêu chí này thành một bộ đồ cụ thể dễ hình dung, đảm bảo khách áp dụng được ngay mà vẫn đúng chất mình mong muốn.\n</think>\nĐể kết hợp sự chỉn chu, kiểu dáng rõ ràng với phong cách trung tính, bạn hãy áp dụng 3 nguyên tắc sau:\n\n1. **Chọn cấu trúc cắt may sắc sảo:** Ưu tiên các items có form suông, oversized vừa phải hoặc form fitted chuẩn (như blazer, vest, quần âu ống đứng) để tạo silhouette rành mạch, không lùng bùng.\n2. **Chất liệu giữ form:** Dùng linen, cotton khổ dày, denim hoặc dạ để trang phục có độ cứng, tránh chất liệu quá mềm rủ làm mất nét chỉn chu.\n3. **Tông màu trung tính:** Sử dụng palette Đen - Trắng - Be - Xám - Navy giúp tổng thể tối giản, thanh lịch và phi giới tính.\n\n*Gợi ý set đồ:* Sơ mi trắng + Quần âu ống suông + Giày Loafers/ Bốt cổ thấp."
+  },
+  {
+    "id": 156,
+    "tags": "Kiến thức cơ bản, Phong cách",
+    "question": "Tôi đang khám phá những kiểu denim khác nhau. Những kiểu nào bất di bất dịch và phối được nhiều đồ?",
+    "a_dataset": "Một kiểu wash mid-blue cổ điển sẽ không bao giờ sai, dễ chuyển đổi từ thường sang smart-casual. Denim màu indigo đậm cực kỳ dễ phối; nó có thể được phối với áo blazer hoặc giản dị với áo phông. Denim wash nhẹ mang cảm giác thoải mái, phù hợp nhất cho ban ngày hoặc mùa ấm, và denim màu đen có thể tăng yếu tố gọn gàng cho những bộ trang phục chỉn chu hơn. Chọn denim có độ rách hoặc hoa văn tối giản để duy trì phong cách lâu dài. Chú ý độ vừa vặn: kiểu straight hoặc slim (không skinny) thường phổ biến lâu hơn những kiểu dáng quá khác. Chọn denim chất lượng cao để lượn tốt và giữ dáng qua thời gian. Nhớ giặt jeans không quá nhiều để giữ màu và chất vải. Với những nguyên tắc này, denim sẽ là một phần đế vững chắc cho nhiều bộ đồ.",
+    "api_key_used": "Key_1",
+    "a_cloud": "Chào bạn, với tư cách chuyên gia tư vấn, tôi gợi ý 3 kiểu denim \"bất di bất dịch\" và dễ phối nhất:\n\n1. **Quần jeans ống suông (Straight-leg)** – màu xanh đậm/trung bình: Linh hoạt từ đi làm đến dạo phố, dễ mix cùng áo sơ mi, thun hay blazer.\n2. **Áo khoác denim (Jacket)** – màu xanh nhạt: Item layer hoàn hảo, giúp mọi set đồ trở nên chất hơn.\n3. **Quần jeans ống rộng (Wide-leg) / Váy denim chữ A**: Mang lại vẻ năng động, nữ tính, cực kỳ dễ tính khi mix&match.",
+    "usage_step1": {
+      "prompt_tokens": 85,
+      "completion_tokens": 1018,
+      "total_tokens": 1103,
+      "cost": 0,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0,
+        "upstream_inference_prompt_cost": 0,
+        "upstream_inference_completions_cost": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 833,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "verdict": {
+      "category": "DATASET_SUPERIOR",
+      "fact_check_notes": "A_Dataset cung cấp kiến thức chính xác và toàn diện về các kiểu wash (mid-blue, indigo, light, black), độ vừa vặn (straight/slim), chất lượng và bảo quản denim, văn phong chuyên nghiệp. A_Cloud chỉ liệt kê 3 item ngắn gọn, thiếu chi tiết về wash truyền thống và lời khuyên quan trọng, dù không ảo giác nhưng kém đầy đủ và kém sâu sắc hơn.",
+      "_usage": {
+        "prompt_tokens": 845,
+        "completion_tokens": 1591,
+        "total_tokens": 2436,
+        "cost": 0,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0,
+          "upstream_inference_prompt_cost": 0,
+          "upstream_inference_completions_cost": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 1444,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    "a_final_source": "A_Dataset",
+    "a_final": "Một kiểu wash mid-blue cổ điển sẽ không bao giờ sai, dễ chuyển đổi từ thường sang smart-casual. Denim màu indigo đậm cực kỳ dễ phối; nó có thể được phối với áo blazer hoặc giản dị với áo phông. Denim wash nhẹ mang cảm giác thoải mái, phù hợp nhất cho ban ngày hoặc mùa ấm, và denim màu đen có thể tăng yếu tố gọn gàng cho những bộ trang phục chỉn chu hơn. Chọn denim có độ rách hoặc hoa văn tối giản để duy trì phong cách lâu dài. Chú ý độ vừa vặn: kiểu straight hoặc slim (không skinny) thường phổ biến lâu hơn những kiểu dáng quá khác. Chọn denim chất lượng cao để lượn tốt và giữ dáng qua thời gian. Nhớ giặt jeans không quá nhiều để giữ màu và chất vải. Với những nguyên tắc này, denim sẽ là một phần đế vững chắc cho nhiều bộ đồ.",
+    "thinking_reverse": "Khi tiếp nhận câu hỏi, tôi hiểu khách hàng đang muốn khám phá denim nhưng cần định hướng những kiểu nào mang tính kinh điển, có thể phối hợp linh hoạt với nhiều trang phục thay vì chạy theo trào lưu nhất thời. Họ đề cập đến sự \"bất di bất dịch\" và \"phối được nhiều đồ\", tức là ưu tiên tính bền vững trong tủ đồ và khả năng chuyển đổi giữa các phong cách từ casual đến smart.\n\nXác định vấn đề cốt lõi, tôi thấy cần giải quyết ba trụ cột: màu sắc, độ vừa vặn và chi tiết trang trí. Màu denim quyết định sự trung tính và dễ kết hợp; những tông quá sáng hoặc họa tiết lạ thường dễ lỗi mốt. Độ dáng quá khổ hay quá bó cũng chỉ hợp thời điểm ngắn. Ngoài ra, chất lượng vải và cách bảo quản ảnh hưởng trực tiếp đến tuổi thọ thẩm mỹ của món đồ.\n\nTừ đó, tôi xây dựng giải pháp tư vấn theo hướng chọn các bản wash tự nhiên như xanh giữa, xanh đậm, xanh nhạt và đen vì chúng là nền tảng an toàn cho nhiều set đồ, từ áo phông đến blazer. Về dáng, những form thẳng hoặc ôm vừa sẽ trường tồn hơn skinny hay các biến tấu quá đà. Tôi cũng lưu ý khách nên chọn chi tiết rách hoặc họa tiết tối giản để tránh trông dated, đồng thời nhấn mạnh vào denim chất lượng cao và thói quen giặt ít để giữ màu và form. Kết hợp các yếu tố này sẽ giúp họ có một lớp nền denim vững chắc, dễ dàng tái sử dụng qua nhiều mùa.",
+    "usage_step3": {
+      "prompt_tokens": 573,
+      "completion_tokens": 2525,
+      "total_tokens": 3098,
+      "cost": 0,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 384,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0,
+        "upstream_inference_prompt_cost": 0,
+        "upstream_inference_completions_cost": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 2072,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "final_response": "<think>\nKhi tiếp nhận câu hỏi, tôi hiểu khách hàng đang muốn khám phá denim nhưng cần định hướng những kiểu nào mang tính kinh điển, có thể phối hợp linh hoạt với nhiều trang phục thay vì chạy theo trào lưu nhất thời. Họ đề cập đến sự \"bất di bất dịch\" và \"phối được nhiều đồ\", tức là ưu tiên tính bền vững trong tủ đồ và khả năng chuyển đổi giữa các phong cách từ casual đến smart.\n\nXác định vấn đề cốt lõi, tôi thấy cần giải quyết ba trụ cột: màu sắc, độ vừa vặn và chi tiết trang trí. Màu denim quyết định sự trung tính và dễ kết hợp; những tông quá sáng hoặc họa tiết lạ thường dễ lỗi mốt. Độ dáng quá khổ hay quá bó cũng chỉ hợp thời điểm ngắn. Ngoài ra, chất lượng vải và cách bảo quản ảnh hưởng trực tiếp đến tuổi thọ thẩm mỹ của món đồ.\n\nTừ đó, tôi xây dựng giải pháp tư vấn theo hướng chọn các bản wash tự nhiên như xanh giữa, xanh đậm, xanh nhạt và đen vì chúng là nền tảng an toàn cho nhiều set đồ, từ áo phông đến blazer. Về dáng, những form thẳng hoặc ôm vừa sẽ trường tồn hơn skinny hay các biến tấu quá đà. Tôi cũng lưu ý khách nên chọn chi tiết rách hoặc họa tiết tối giản để tránh trông dated, đồng thời nhấn mạnh vào denim chất lượng cao và thói quen giặt ít để giữ màu và form. Kết hợp các yếu tố này sẽ giúp họ có một lớp nền denim vững chắc, dễ dàng tái sử dụng qua nhiều mùa.\n</think>\nMột kiểu wash mid-blue cổ điển sẽ không bao giờ sai, dễ chuyển đổi từ thường sang smart-casual. Denim màu indigo đậm cực kỳ dễ phối; nó có thể được phối với áo blazer hoặc giản dị với áo phông. Denim wash nhẹ mang cảm giác thoải mái, phù hợp nhất cho ban ngày hoặc mùa ấm, và denim màu đen có thể tăng yếu tố gọn gàng cho những bộ trang phục chỉn chu hơn. Chọn denim có độ rách hoặc hoa văn tối giản để duy trì phong cách lâu dài. Chú ý độ vừa vặn: kiểu straight hoặc slim (không skinny) thường phổ biến lâu hơn những kiểu dáng quá khác. Chọn denim chất lượng cao để lượn tốt và giữ dáng qua thời gian. Nhớ giặt jeans không quá nhiều để giữ màu và chất vải. Với những nguyên tắc này, denim sẽ là một phần đế vững chắc cho nhiều bộ đồ."
+  }
+]

@@ -1,0 +1,64 @@
+Total: 10000
+
+Tags:
+Tags
+Kiến thức cơ bản, Phong cách                                                            3528
+Kiến thức cơ bản                                                                        1708
+Hoàn cảnh, Phong cách                                                                   1630
+Hoàn cảnh, Kiến thức cơ bản                                                              750
+Phong cách                                                                               675
+Dáng người, Phong cách                                                                   535
+Dáng người, Kiến thức cơ bản                                                             323
+Dáng người                                                                               264
+Hoàn cảnh, Kiến thức cơ bản, Phong cách                                                  206
+Hoàn cảnh                                                                                 65
+Mua sắm & Quản lý tủ đồ, Bảo quản & Thời trang bền vững                                   52
+Dáng người, Kiến thức cơ bản, Phong cách                                                  51
+Dáng người, Hoàn cảnh                                                                     43
+Dáng người, Hoàn cảnh, Phong cách                                                         26
+Phong cách, Làm đẹp & Chăm sóc cá nhân                                                    15
+Kiến thức cơ bản, Bảo quản & Thời trang bền vững                                          15
+Phong cách, Phong thái & Tâm lý                                                           14
+Mua sắm & Quản lý tủ đồ                                                                   13
+Bảo quản & Thời trang bền vững                                                            12
+Dáng người, Hoàn cảnh, Kiến thức cơ bản                                                   12
+Phong thái & Tâm lý, Bảo quản & Thời trang bền vững                                       10
+Phong thái & Tâm lý                                                                        8
+Phong cách, Mua sắm & Quản lý tủ đồ                                                        6
+Kiến thức cơ bản, Phong thái & Tâm lý                                                      6
+Dáng người, Phong thái & Tâm lý                                                            5
+Phong cách, Mua sắm & Quản lý tủ đồ, Bảo quản & Thời trang bền vững                        4
+Làm đẹp & Chăm sóc cá nhân, Bảo quản & Thời trang bền vững                                 3
+Phong cách, Bảo quản & Thời trang bền vững                                                 3
+Hoàn cảnh, Mua sắm & Quản lý tủ đồ                                                         2
+Dáng người, Mua sắm & Quản lý tủ đồ, Bảo quản & Thời trang bền vững                        2
+Hoàn cảnh, Mua sắm & Quản lý tủ đồ, Bảo quản & Thời trang bền vững                         2
+Phong thái & Tâm lý, Làm đẹp & Chăm sóc cá nhân                                            2
+Phong cách, Phong thái & Tâm lý, Mua sắm & Quản lý tủ đồ                                   1
+Phong cách, Phong thái & Tâm lý, Bảo quản & Thời trang bền vững                            1
+Hoàn cảnh, Bảo quản & Thời trang bền vững                                                  1
+Dáng người, Hoàn cảnh, Kiến thức cơ bản, Phong cách                                        1
+Phong cách, Mua sắm & Quản lý tủ đồ, Bảo quản & Thời trang bền vững, Phong cách sống       1
+Kiến thức cơ bản, Phong cách, Làm đẹp & Chăm sóc cá nhân                                   1
+Hoàn cảnh, Phong cách, Mua sắm & Quản lý tủ đồ                                             1
+Hoàn cảnh, Làm đẹp & Chăm sóc cá nhân                                                      1
+Phong thái & Tâm lý, Mua sắm & Quản lý tủ đồ                                               1
+Phong cách, Bảo quản & Thời trang bền vững, Phong cách sống                                1
+
+Complexity (Difficulty):
+Difficulty
+2    6704
+1    1982
+3    1314
+
+Detail:
+Detail
+2    5173
+3    4540
+1     287
+
+Vocab:
+Vocab
+2    8305
+3    1030
+1     665

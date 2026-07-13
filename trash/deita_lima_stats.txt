@@ -1,0 +1,74 @@
+DEITA Count: 4015
+DEITA Tags:
+Tags
+Kiến thức cơ bản, Phong cách                                           1473
+Hoàn cảnh, Phong cách                                                   676
+Kiến thức cơ bản                                                        372
+Dáng người, Phong cách                                                  340
+Hoàn cảnh, Kiến thức cơ bản                                             305
+Phong cách                                                              190
+Dáng người, Kiến thức cơ bản                                            179
+Hoàn cảnh, Kiến thức cơ bản, Phong cách                                 173
+Dáng người                                                              125
+Dáng người, Kiến thức cơ bản, Phong cách                                 38
+Mua sắm & Quản lý tủ đồ, Bảo quản & Thời trang bền vững                  27
+Dáng người, Hoàn cảnh                                                    22
+Dáng người, Hoàn cảnh, Phong cách                                        22
+Hoàn cảnh                                                                12
+Dáng người, Hoàn cảnh, Kiến thức cơ bản                                  10
+Kiến thức cơ bản, Bảo quản & Thời trang bền vững                         10
+Phong cách, Phong thái & Tâm lý                                           6
+Bảo quản & Thời trang bền vững                                            6
+Phong cách, Làm đẹp & Chăm sóc cá nhân                                    5
+Phong thái & Tâm lý, Bảo quản & Thời trang bền vững                       4
+Mua sắm & Quản lý tủ đồ                                                   3
+Phong cách, Mua sắm & Quản lý tủ đồ, Bảo quản & Thời trang bền vững       2
+Phong thái & Tâm lý                                                       2
+Kiến thức cơ bản, Phong thái & Tâm lý                                     2
+Phong cách, Mua sắm & Quản lý tủ đồ                                       2
+Phong cách, Phong thái & Tâm lý, Mua sắm & Quản lý tủ đồ                  1
+Làm đẹp & Chăm sóc cá nhân, Bảo quản & Thời trang bền vững                1
+Hoàn cảnh, Bảo quản & Thời trang bền vững                                 1
+Kiến thức cơ bản, Phong cách, Làm đẹp & Chăm sóc cá nhân                  1
+Dáng người, Hoàn cảnh, Kiến thức cơ bản, Phong cách                       1
+Dáng người, Mua sắm & Quản lý tủ đồ, Bảo quản & Thời trang bền vững       1
+Dáng người, Phong thái & Tâm lý                                           1
+Phong thái & Tâm lý, Làm đẹp & Chăm sóc cá nhân                           1
+Hoàn cảnh, Mua sắm & Quản lý tủ đồ, Bảo quản & Thời trang bền vững        1
+
+LIMA Count: 1500
+LIMA Tags:
+Tags
+Kiến thức cơ bản, Phong cách                                           542
+Hoàn cảnh, Phong cách                                                  251
+Kiến thức cơ bản                                                       134
+Dáng người, Phong cách                                                 122
+Hoàn cảnh, Kiến thức cơ bản                                            108
+Phong cách                                                              72
+Hoàn cảnh, Kiến thức cơ bản, Phong cách                                 63
+Dáng người, Kiến thức cơ bản                                            50
+Dáng người                                                              39
+Mua sắm & Quản lý tủ đồ, Bảo quản & Thời trang bền vững                 27
+Dáng người, Kiến thức cơ bản, Phong cách                                12
+Dáng người, Hoàn cảnh                                                   12
+Dáng người, Hoàn cảnh, Phong cách                                       12
+Kiến thức cơ bản, Bảo quản & Thời trang bền vững                        10
+Phong cách, Phong thái & Tâm lý                                          6
+Bảo quản & Thời trang bền vững                                           6
+Phong cách, Làm đẹp & Chăm sóc cá nhân                                   5
+Hoàn cảnh                                                                4
+Phong thái & Tâm lý, Bảo quản & Thời trang bền vững                      4
+Mua sắm & Quản lý tủ đồ                                                  3
+Phong thái & Tâm lý                                                      2
+Dáng người, Hoàn cảnh, Kiến thức cơ bản                                  2
+Phong cách, Mua sắm & Quản lý tủ đồ                                      2
+Kiến thức cơ bản, Phong thái & Tâm lý                                    2
+Phong cách, Mua sắm & Quản lý tủ đồ, Bảo quản & Thời trang bền vững      2
+Làm đẹp & Chăm sóc cá nhân, Bảo quản & Thời trang bền vững               1
+Phong cách, Phong thái & Tâm lý, Mua sắm & Quản lý tủ đồ                 1
+Hoàn cảnh, Bảo quản & Thời trang bền vững                                1
+Kiến thức cơ bản, Phong cách, Làm đẹp & Chăm sóc cá nhân                 1
+Dáng người, Phong thái & Tâm lý                                          1
+Dáng người, Mua sắm & Quản lý tủ đồ, Bảo quản & Thời trang bền vững      1
+Phong thái & Tâm lý, Làm đẹp & Chăm sóc cá nhân                          1
+Hoàn cảnh, Mua sắm & Quản lý tủ đồ, Bảo quản & Thời trang bền vững       1

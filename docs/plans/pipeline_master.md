@@ -51,5 +51,5 @@ Căn cứ vào kết quả phân tích ở Giai đoạn 3, chúng ta tiến hàn
 Giai đoạn này được tách riêng do tính chất phức tạp và tốn kém tài nguyên tính toán.
 - **Mục tiêu:** Sinh thêm thẻ `<think>...</think>` (chứa luồng tư duy phân tích, lập luận logic của chuyên gia) bổ sung vào đầu mỗi câu trả lời của 1.488 dòng Final.
 - **Phương pháp luận:** Sẽ có một bài research riêng để xác định mô hình (VD: DeepSeek R1, GPT-o1, Claude 3.5 Sonnet...) và phương pháp prompting tối ưu để tạo ra reasoning data chất lượng nhất cho trợ lý ảo thời trang.
-- **Danh sách Models dự phòng cho Task Thinking (Đã được Sếp kiểm duyệt):** 
+- **Danh sách Models dự phòng cho Task Thinking (Đã được kiểm duyệt):** 
   `qwen3.5-plus-2026-02-15`, `qwen3.7-plus`, `qwen3.7-max-2026-06-08`, `qwen3.6-plus`, `qwen3.7-max-preview`, `qwen3.6-max-preview`, `qwen3.6-flash`, `qwen3.5-flash`, `qwen3.5-flash-2026-02-23`, `qwen3.7-max-2026-05-20`, `qwen3.7-plus-2026-05-26`, `qwen3.6-27b`, `qwen3.6-flash-2026-04-16`, `qwen3.5-27b`, `qwen3.7-max-2026-05-17`, `qwen3.5-plus`, `qwen3.7-max`, `qwen3.5-plus-2026-04-20`.

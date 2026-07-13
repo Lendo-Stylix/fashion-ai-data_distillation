@@ -1,0 +1,19 @@
+DEITA (4015):
+Diff:
+Difficulty
+2    3068
+3     947
+Vocab:
+Vocab
+2    3249
+3     766
+
+LIMA (1500):
+Diff:
+Difficulty
+2    1144
+3     356
+Vocab:
+Vocab
+2    1212
+3     288

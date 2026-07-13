@@ -1,0 +1,87 @@
+{
+  "row_index": 1,
+  "id": 8334,
+  "tags": "Dáng người, Phong cách",
+  "batch_id": "1",
+  "question": "Tôi muốn có những kiểu dáng rõ ràng, chỉn chu nhưng lại thích mặc đồ trung tính giới tính. Làm sao để đạt được điều đó?",
+  "a_dataset": "Hãy tìm những món trang phục có thiết kế tinh tế – quần ống thẳng, blazer một khuy – với dáng hơi hộp để tránh phong cách may theo giới tính rõ rệt. Những tông màu trung tính (xám tro, đen, be) giúp phối đồ dễ dàng. Nhấn mạnh vào các chi tiết tinh tế như cổ áo sắc nét hoặc nếp gấp tối giản để tạo sự sang trọng. Cân nhắc chọn cỡ lớn hơn một size hoặc điều chỉnh ở những điểm then chốt (như chiều dài tay) để đạt được độ vừa vặn thoải mái nhưng vẫn giữ được dáng đứng. Cách tiếp cận này kết hợp vẻ ngoài chỉn chu với tính linh hoạt trung tính.",
+  "api_key_used": "Key_2",
+  "a_cloud": "Để cân bằng giữa sự chỉn chu, rõ ràng và phong cách trung tính, bạn có thể áp dụng 4 nguyên tắc cốt lõi sau:\n\n1. **Form dáng Tailored (Cắt may):** Chọn blazer suông, sơ mi oversized vừa phải, quần tây ống rộng (wide-leg) hoặc ống đứng. Tránh quá bó sát hoặc quá thùng thình để giữ cấu trúc rõ ràng.\n2. **Chất liệu có phom:** Ưu tiên vải kaki, linen pha, denim hoặc wool blend. Các chất liệu này có độ cứng nhất định để giữ nếp, tạo nét sắc sảo, chỉn chu.\n3. **Tông màu trung tính:** Sử dụng đen, trắng, xám, be, navy. Đây là các màu không phân biệt giới tính, giúp tổng thể tối giản và thanh lịch.\n4. **Phụ kiện tối giản:** Kết hợp giày loafers, sneaker trắng, túi tote da hoặc đồng hồ dây da để hoàn thiện vẻ ngoài gọn gàng, chuyên nghiệp.",
+  "usage_step1": {
+    "prompt_tokens": 94,
+    "completion_tokens": 1259,
+    "total_tokens": 1353,
+    "cost": 0,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0,
+      "upstream_inference_prompt_cost": 0,
+      "upstream_inference_completions_cost": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 972,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "verdict": {
+    "category": "CLOUD_SUPERIOR",
+    "fact_check_notes": "Cả hai đều không bị ảo giác và đúng về kiến thức thời trang trung tính giới tính. A_Cloud đầy đủ và chuyên nghiệp hơn hẳn với cấu trúc 4 nguyên tắc rõ ràng (form dáng, chất liệu, màu sắc, phụ kiện), bao quát và dễ áp dụng hơn A_Dataset (chủ yếu tập trung vào dáng và màu).",
+    "_usage": {
+      "prompt_tokens": 891,
+      "completion_tokens": 2125,
+      "total_tokens": 3016,
+      "cost": 0,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0,
+        "upstream_inference_prompt_cost": 0,
+        "upstream_inference_completions_cost": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 2003,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "a_final": "Để cân bằng giữa sự chỉn chu, rõ ràng và phong cách trung tính, bạn có thể áp dụng 4 nguyên tắc cốt lõi sau:\n\n1. **Form dáng Tailored (Cắt may):** Chọn blazer suông, sơ mi oversized vừa phải, quần tây ống rộng (wide-leg) hoặc ống đứng. Tránh quá bó sát hoặc quá thùng thình để giữ cấu trúc rõ ràng.\n2. **Chất liệu có phom:** Ưu tiên vải kaki, linen pha, denim hoặc wool blend. Các chất liệu này có độ cứng nhất định để giữ nếp, tạo nét sắc sảo, chỉn chu.\n3. **Tông màu trung tính:** Sử dụng đen, trắng, xám, be, navy. Đây là các màu không phân biệt giới tính, giúp tổng thể tối giản và thanh lịch.\n4. **Phụ kiện tối giản:** Kết hợp giày loafers, sneaker trắng, túi tote da hoặc đồng hồ dây da để hoàn thiện vẻ ngoài gọn gàng, chuyên nghiệp.",
+  "a_final_source": "A_Cloud",
+  "thinking_reverse": "Đầu tiên, tôi lắng nghe nhu cầu của khách và nhận ra họ đang muốn giải quyết một sự mâu thuẫn tưởng chừng khó kết hợp: một mặt thích sự rõ ràng, chỉn chu mang tính truyền thống, mặt khác lại muốn tự do trong phong cách phi giới tính. Vậy yêu cầu thực chất là làm sao để đồ unisex không bị lôi thôi, lợt lạt mà vẫn giữ được sự sắc nét, chuyên nghiệp.\n\nXác định vấn đề cốt lõi, tôi thấy trang phục trung tính thường bị hiểu nhầm là rộng thùng thình, thiếu điểm nhấn khiến người mặc trông luộm thuộm. Ngược lại, đồ chỉn chu dễ mang định kiến giới tính rõ rệt. Điểm nghẽn ở đây là thiếu cấu trúc và kỷ luật trong phom dáng cũng như chất liệu.\n\nTừ đó, tôi xây dựng hướng giải quyết dựa trên nguyên lý tạo khung cho cơ thể. Về kiểu dáng, cần những đường cắt may có chủ đích như blazer suông hay quần ống rộng vừa đủ để vừa giữ sự thoải mái trung tính, vừa có form rành mạch. Tiếp theo là chất liệu, tôi loại ngay các loại vải mềm rủ vì chúng làm mất nếp, thay bằng kaki, linen pha để tạo phom cứng giúp tổng thể sắc sảo. Màu sắc cũng phải trung hòa, dùng palette trầm tối giản tránh rườm rà. Cuối cùng, phụ kiện phải tinh gọn như loafers hay túi tote để khóa lại vẻ gọn gàng. Tôi chọn trình bày thành bốn trụ cột dễ nhớ để khách áp dụng ngay được.",
+  "usage_step3": {
+    "prompt_tokens": 604,
+    "completion_tokens": 447,
+    "total_tokens": 1051,
+    "cost": 0,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0,
+      "upstream_inference_prompt_cost": 0,
+      "upstream_inference_completions_cost": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "final_response": "<think>\nĐầu tiên, tôi lắng nghe nhu cầu của khách và nhận ra họ đang muốn giải quyết một sự mâu thuẫn tưởng chừng khó kết hợp: một mặt thích sự rõ ràng, chỉn chu mang tính truyền thống, mặt khác lại muốn tự do trong phong cách phi giới tính. Vậy yêu cầu thực chất là làm sao để đồ unisex không bị lôi thôi, lợt lạt mà vẫn giữ được sự sắc nét, chuyên nghiệp.\n\nXác định vấn đề cốt lõi, tôi thấy trang phục trung tính thường bị hiểu nhầm là rộng thùng thình, thiếu điểm nhấn khiến người mặc trông luộm thuộm. Ngược lại, đồ chỉn chu dễ mang định kiến giới tính rõ rệt. Điểm nghẽn ở đây là thiếu cấu trúc và kỷ luật trong phom dáng cũng như chất liệu.\n\nTừ đó, tôi xây dựng hướng giải quyết dựa trên nguyên lý tạo khung cho cơ thể. Về kiểu dáng, cần những đường cắt may có chủ đích như blazer suông hay quần ống rộng vừa đủ để vừa giữ sự thoải mái trung tính, vừa có form rành mạch. Tiếp theo là chất liệu, tôi loại ngay các loại vải mềm rủ vì chúng làm mất nếp, thay bằng kaki, linen pha để tạo phom cứng giúp tổng thể sắc sảo. Màu sắc cũng phải trung hòa, dùng palette trầm tối giản tránh rườm rà. Cuối cùng, phụ kiện phải tinh gọn như loafers hay túi tote để khóa lại vẻ gọn gàng. Tôi chọn trình bày thành bốn trụ cột dễ nhớ để khách áp dụng ngay được.\n</think>\nĐể cân bằng giữa sự chỉn chu, rõ ràng và phong cách trung tính, bạn có thể áp dụng 4 nguyên tắc cốt lõi sau:\n\n1. **Form dáng Tailored (Cắt may):** Chọn blazer suông, sơ mi oversized vừa phải, quần tây ống rộng (wide-leg) hoặc ống đứng. Tránh quá bó sát hoặc quá thùng thình để giữ cấu trúc rõ ràng.\n2. **Chất liệu có phom:** Ưu tiên vải kaki, linen pha, denim hoặc wool blend. Các chất liệu này có độ cứng nhất định để giữ nếp, tạo nét sắc sảo, chỉn chu.\n3. **Tông màu trung tính:** Sử dụng đen, trắng, xám, be, navy. Đây là các màu không phân biệt giới tính, giúp tổng thể tối giản và thanh lịch.\n4. **Phụ kiện tối giản:** Kết hợp giày loafers, sneaker trắng, túi tote da hoặc đồng hồ dây da để hoàn thiện vẻ ngoài gọn gàng, chuyên nghiệp."
+}

@@ -1,0 +1,5 @@
+Verdict:
+Counter({'DATASET_SUPERIOR': 600, 'CLOUD_SUPERIOR': 549, 'VERIFIED_EQUAL': 339})
+
+A_Final_Source:
+Counter({'A_Cloud': 888, 'A_Dataset': 600})
